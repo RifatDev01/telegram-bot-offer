@@ -1,0 +1,12 @@
+{
+  "name": "telegram-offer-bot",
+  "version": "1.0.0",
+  "description": "Telegram Offer Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
